@@ -1,0 +1,19 @@
+# ──────────────────────────────────────────────
+# Globussoft Assignment — Python Dependencies
+# ──────────────────────────────────────────────
+
+# Task 1 — Amazon Scraper
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.2.2
+
+# Task 2 — Face Authentication API
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+Pillow==10.3.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+deepface==0.0.93
+tensorflow==2.16.1        # DeepFace backend (CPU)
+tf-keras==2.16.0
